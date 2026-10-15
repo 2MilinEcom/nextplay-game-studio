@@ -1,0 +1,26 @@
+[
+  {
+    "schema_version": 1,
+    "app": "clash_royale",
+    "source": "synthetic_fixture",
+    "coordinate_space": "arena_normalized",
+    "evidence_id": "fixture:balloon-not-real-gameplay",
+    "observed_ms": 1000,
+    "available_ms": 1100,
+    "confidence": 0.99,
+    "phase": "battle",
+    "elixir": 5,
+    "hand": [
+      "tesla",
+      "miner"
+    ],
+    "threats": [
+      {
+        "kind": "balloon",
+        "lane": "left",
+        "y": 0.6,
+        "confidence": 0.99
+      }
+    ]
+  }
+]

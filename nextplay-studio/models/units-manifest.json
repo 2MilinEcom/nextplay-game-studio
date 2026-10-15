@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/Pbatch/ClashRoyaleBuildABot",
+  "file_url": "https://raw.githubusercontent.com/Pbatch/ClashRoyaleBuildABot/main/clashroyalebuildabot/models/units_M_480x352.onnx",
+  "sha256": "4cf422370650b1d18647cffc05e02bf75fdc2fbdb1f8ef983f4b8d6f8ea908b3",
+  "license": "AGPL-3.0 per model metadata; repository MIT",
+  "evaluated_on": "NextPlay portrait Clash recording; thresholds conservative; limited coverage"
+}

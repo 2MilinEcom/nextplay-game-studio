@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Tesla",
+    "id": 27000006,
+    "variant": "medium",
+    "file": "tesla_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png",
+    "sha256": "b7b539672fdd5077817ad2f9161de5cc135ab9956b6fe70df5593ed8467d7787"
+  },
+  {
+    "name": "Tesla",
+    "id": 27000006,
+    "variant": "evolutionMedium",
+    "file": "tesla_evolutionMedium.png",
+    "url": "https://api-assets.clashroyale.com/cardevolutions/300/OiwnGrxFMNiHetYEerE-UZt0L_uYNzFY7qV_CA_OxR4.png",
+    "sha256": "5d3e9dcf62656fe29d667b7a63a425f3a0356bb5982ae6d05d803e8957903fd2"
+  },
+  {
+    "name": "Wall Breakers",
+    "id": 26000058,
+    "variant": "medium",
+    "file": "wall_breakers_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/_xPphEfC8eEwFNrfU3cMQG9-f5JaLQ31ARCA7l3XtW4.png",
+    "sha256": "11d0d448c1fab1f72707956e082e85fc31249c5a8460cdfafdb5e457991c8f25"
+  },
+  {
+    "name": "Wall Breakers",
+    "id": 26000058,
+    "variant": "evolutionMedium",
+    "file": "wall_breakers_evolutionMedium.png",
+    "url": "https://api-assets.clashroyale.com/cardevolutions/300/_xPphEfC8eEwFNrfU3cMQG9-f5JaLQ31ARCA7l3XtW4.png",
+    "sha256": "43aca130b4c61869133d2aa4423c53e116f41ac01c4440094711ab5f7763ce66"
+  },
+  {
+    "name": "Miner",
+    "id": 26000032,
+    "variant": "medium",
+    "file": "miner_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/Y4yWvdwBCg2FpAZgs8T09Gy34WOwpLZW-ttL52Ae8NE.png",
+    "sha256": "62c548877bee5e169e2cbb56cac6119358c9fc230daafa1f8f29054cf3d0fb55"
+  },
+  {
+    "name": "Royal Delivery",
+    "id": 28000018,
+    "variant": "medium",
+    "file": "royal_delivery_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/LPg7AGjGI3_xmi7gLLgGC50yKM1jJ2teWkZfoHJcIZo.png",
+    "sha256": "481f09b41f7a64d257efcce61328ca95c001df623264e573396f520f317c0b99"
+  },
+  {
+    "name": "Poison",
+    "id": 28000009,
+    "variant": "medium",
+    "file": "poison_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/98HDkG2189yOULcVG9jz2QbJKtfuhH21DIrIjkOjxI8.png",
+    "sha256": "7c846058aa27181d64606fbf1793ff2365f0f98162d644d54c3a3c2668f3acc7"
+  },
+  {
+    "name": "Skeletons",
+    "id": 26000010,
+    "variant": "medium",
+    "file": "skeletons_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png",
+    "sha256": "7eccf9628278c70b28b22a7510c8d8ba2cc1acd481a5c1d3d5c63a57aaae41a4"
+  },
+  {
+    "name": "Skeletons",
+    "id": 26000010,
+    "variant": "evolutionMedium",
+    "file": "skeletons_evolutionMedium.png",
+    "url": "https://api-assets.clashroyale.com/cardevolutions/300/oO7iKMU5m0cdxhYPZA3nWQiAUh2yoGgdThLWB1rVSec.png",
+    "sha256": "7c070c4410a39b3492f0289ac3f00f69c3f6b6ffefa4cade8d87224be64cd0a6"
+  },
+  {
+    "name": "Berserker",
+    "id": 26000102,
+    "variant": "medium",
+    "file": "berserker_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/NA6W8S1JBYBlOPwD3dNvJLFvVDKq-UuBs_J3i3ewLFI.png",
+    "sha256": "2ccd8c514a5e8bd6004103671e8c889eeee09efb8d9b9fefb3155531de3bd25f"
+  },
+  {
+    "name": "Berserker",
+    "id": 26000102,
+    "variant": "heroMedium",
+    "file": "berserker_heroMedium.png",
+    "url": "https://api-assets.clashroyale.com/cardheroes/300/NA6W8S1JBYBlOPwD3dNvJLFvVDKq-UuBs_J3i3ewLFI.png",
+    "sha256": "2a3f0bee3728df91725cf04cfd1bb9593d9f0ce0aae00a3c89001a6ac9b01dfd"
+  },
+  {
+    "name": "The Log",
+    "id": 28000011,
+    "variant": "medium",
+    "file": "the_log_medium.png",
+    "url": "https://api-assets.clashroyale.com/cards/300/_iDwuDLexHPFZ_x4_a0eP-rxCS6vwWgTs6DLauwwoaY.png",
+    "sha256": "344e10dec246a323c9637d8a0d8964db2094022a9968aaa2ab89ebf8f9739e14"
+  }
+]
